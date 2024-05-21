@@ -1,0 +1,47 @@
+#!C:/Users/Elaya Prasath/AppData/Local/Programs/Python/Python310/python.exe
+
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./img/1767974.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#Lgninfo {
+    padding-top: 115px;
+    padding-bottom: 115px;
+    border-radius: 300px;
+    background-color: #0007;
+}
+
+#layout {
+    border: 0px;
+    position: relative;
+    top: 10px;
+}
+
+#AdHrUname,
+#AdHrPwd {
+    background-color: #0000;
+    border: 0px;
+    border-bottom: 2px solid rgb(1, 1, 80);
+    border-radius: 0%;
+    color: white;
+}
+
+#sub,
+#close {
+    background-color: red;
+    position: relative;
+    left: 180px;
+    border-radius: 50px;
+}
